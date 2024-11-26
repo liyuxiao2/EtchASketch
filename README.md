@@ -5,7 +5,7 @@
 </p>
 
 <p> Live preview </p>
-<a href = http://127.0.0.1:3000/Javascript/EtchASketch/index.html>
+<link href = http://127.0.0.1:3000/Javascript/EtchASketch/index.html>
   
 <hr />
 
