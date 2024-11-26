@@ -4,6 +4,8 @@
   A web-based implementation of the classic <strong>Etch-A-Sketch</strong> toy, built with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.
 </p>
 
+<p> Live preview </p>
+<a ref = http://127.0.0.1:3000/Javascript/EtchASketch/index.html>
 <hr />
 
 <h2>Features</h2>
