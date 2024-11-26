@@ -1,0 +1,71 @@
+body {
+    display: flex;
+    justify-content: center; /* Horizontally center the container */
+    align-items: center; /* Vertically center the container */
+    flex-direction: column;
+    background-color: pink;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    height: 1000px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1; /* Ensure rows take equal height */
+}
+
+.square {
+    flex-grow: 1; /* Make each square grow equally in a row */
+    aspect-ratio: 1; /* Maintain square aspect ratio */
+    border: 1px solid black; /* Optional: Add border */
+    background-color: white;
+}
+
+#title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 300;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button{
+    background-color: yellow;
+    color: black;
+    border-radius: 10%;
+    cursor: pointer;
+    padding: 10px;
+    border: 10px;
+    margin: 10px;
+    font-weight: bold;
+    font-size: medium;
+}
+
+footer {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    width: 100%;
+    bottom: 0;
+}
+
+p,
+footer a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #000;
+    font-size: medium;
+    font-weight: bold;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+
