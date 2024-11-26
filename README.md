@@ -13,8 +13,8 @@ JavaScript: Implements interactive features like drawing, grid resizing, and mod
 How to Use
 Select Grid Size: Click on one of the grid size buttons (e.g., 16×16) to set the canvas size.
 Draw: Hover over the grid squares to color them.
-Clear Drawing: Click the "Clear Grid" button to reset the canvas.
-Rainbow Mode: Click the "RAINBOW" button to enable random colors on hover.
+Clear Drawing: Click the Clear Grid button to reset the canvas.
+Rainbow Mode: Click the RAINBOW button to enable random colors on hover.
 Installation
 Clone the Repository:
 bash
@@ -35,6 +35,4 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgments
-Inspired by the classic Etch-A-Sketch toy and various online tutorials on web development.
-
-Note: Replace https://github.com/your-username/etch-a-sketch.git with the actual URL of your GitHub repository.
+Inspired by the classic Etch-A-Sketch toy and various online tutorials on web development
